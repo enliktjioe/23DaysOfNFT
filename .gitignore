@@ -8,3 +8,5 @@ week1_NFT_framework/bsc/mynft/build/
 week1_NFT_framework/bsc/mynft/test/
 week1_NFT_framework/polkadot/.env.local
 week1_NFT_framework/tron/decentralized-library/package-lock.json
+week1_NFT_framework/hedera/hedera-go-examples/hedera_account.txt
+week1_NFT_framework/hedera/hedera-go-examples/.env
