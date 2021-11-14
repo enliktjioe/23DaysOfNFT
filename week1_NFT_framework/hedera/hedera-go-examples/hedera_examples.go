@@ -73,4 +73,20 @@ func main() {
 
 	//Print the balance of tinybars
 	fmt.Println("The account balance for the new account is ", accountBalance.Hbars.AsTinybar())
+
+	//Print the balance of tinybars
+	fmt.Println("The account balance for the new account is ", accountBalance.Hbars.AsTinybar())
+	//-----------------------<enter code below>--------------------------------------
+
+	//Transfer hbar from your testnet account to the new account
+	transaction := hedera.NewTransferTransaction().
+		AddHbarTransfer(myAccountId, hedera.HbarFrom(-1000, hedera.HbarUnits.Tinybar)).
+		AddHbarTransfer(newAccountId, hedera.HbarFrom(1000, hedera.HbarUnits.Tinybar))
+
+	//Submit the transaction to a Hedera network
+	txResponse, err := transaction.Execute(client)
+
+	if err != nil {
+		panic(err)
+	}
 }
