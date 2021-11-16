@@ -8,21 +8,14 @@
 
 ## Let's dig in
 
-![Screenshot 2021-11-17 at 00.18.30](img/readme/Screenshot 2021-11-17 at 00.18.30.png)
+![Screenshot 2021-11-17 at 00.18.30](img/readme/1.png)
 
 
 
 API Test Success:
 
-![Screenshot 2021-11-17 at 00.19.32](img/readme/Screenshot 2021-11-17 at 00.19.32.png)
+![Screenshot 2021-11-17 at 00.19.32](img/readme/2.png)
 
 After Initialization
 
-![Screenshot 2021-11-17 at 00.22.29](img/readme/Screenshot 2021-11-17 at 00.22.29.png)
-
-Mnemonic
-leopard fire legal door attract stove similar response photo prize seminar frown
-
-Address
-XUQUbLJ9TMFXsvKbfpitvbBnMPzJwM2ftQ
-
+![Screenshot 2021-11-17 at 00.22.29](img/readme/3.png)
