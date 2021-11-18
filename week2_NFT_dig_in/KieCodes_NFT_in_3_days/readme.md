@@ -48,7 +48,7 @@
 
     - We need Date file into deployment file
 
-  - Create `2_token_migration.sol` file for 2nd deployment process
+  - Create `2_token_migration.js` file inside `/migrations` folder for 2nd deployment process
     
 
     ![6](img/readme/6.png)
