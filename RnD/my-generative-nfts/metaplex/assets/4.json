@@ -1,0 +1,39 @@
+{
+  "name": "Triangle and Circle #4",
+  "symbol": "TAC",
+  "description": "Unique combinatons of a Circle and a Triangle with two backgrounds",
+  "seller_fee_basis_points": 1000,
+  "image": "4.png",
+  "external_url": "",
+  "edition": 4,
+  "creator": "Enlik Tjioe",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background2"
+    },
+    {
+      "trait_type": "Circle",
+      "value": "circle1"
+    },
+    {
+      "trait_type": "Triangle",
+      "value": "triangle2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7CU5dmPRPBwjiQymQK7dW3rfsrcaNohSLbzxyTbtVape",
+        "share": 100
+      }
+    ]
+  }
+}
