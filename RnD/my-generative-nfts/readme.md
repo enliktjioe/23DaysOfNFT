@@ -2,7 +2,7 @@
 
 https://learn.figment.io/tutorials/generative-nfts-on-solana-with-candy-machine-v2-and-hashlips
 
-
+https://github.com/enliktjioe/23DaysOfNFT/tree/master/RnD/my-generative-nfts
 
 ## Uploading assets and Creating a Candy Machine
 
@@ -31,3 +31,15 @@ Success Run:
 ## Example of working solution
 
 https://circleanglenfts.web.app/
+
+
+
+
+
+## Conclusion
+
+Phantom Wallet connected but NFT marketplace site can't be refreshed
+localhost:3000
+
+
+![image-20220223005514642](img/readme/image-20220223005514642.png)
